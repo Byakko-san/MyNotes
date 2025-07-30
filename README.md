@@ -1,2 +1,2 @@
 # MyNotes
-This application was created for personal notes with notifications.
+For Octagon's task.
